@@ -1,0 +1,61 @@
+.heading {
+    font-size: 35px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.intro {
+    background-color: #2f7862;
+    color:white;
+    padding-left: 16px;
+    padding-bottom: 8px;
+    margin-bottom: 4px;
+}
+img{
+border-radius: 50%;
+}
+
+body {
+    font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif
+}
+.prof {
+    font-size: 25px;
+    font-weight:lighter;
+}
+.contactinfo {
+    font-size: 15px;
+    padding-left:16px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-color:#eeeeee;
+}
+.subheading {
+    font-size: 20px;
+    font-weight:bolder;
+    color: #2f7862;
+    text-transform: uppercase;
+}
+#socialblock {
+    border:1px dashed #666;
+    padding:5px;
+    font-size:15px;
+}
+
+
+.icon{
+    color: #2f7862;
+}
+.date{
+    font-size: 16px;
+    color: #2f7862;
+    font-weight: bold;
+}
+.jobtitle {
+    font-weight:bold;
+}
+.skills ul li{
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: -15px;
+}
